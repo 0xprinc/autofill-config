@@ -1,6 +1,6 @@
 {
-  "backendUrl": "https://auto-fill-backend-660tfl3lt-0xprinc-5043s-projects.vercel.app",
-  "frontendUrl": "auto-fill-frontend-flqb-qreui523o-0xprinc-5043s-projects.vercel.app",
+  "backendUrl": "https://localhost:5001”,
+  "frontendUrl": "https://localhost:3000”,
   "version": "1.0.1",
   "lastUpdated": "2026-02-06T03:00:00Z"
 }
