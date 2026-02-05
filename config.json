@@ -1,6 +1,6 @@
 {
-    "backendUrl": "http://localhost:5000",
-    "version": "1.0.0",
-    "lastUpdated": "2026-02-06T02:31:00Z",
-    "notes": "This is the configuration file for the AutoFill extension. Update the backendUrl when you change your backend server."
+  "backendUrl": "https://auto-fill-backend-660tfl3lt-0xprinc-5043s-projects.vercel.app",
+  "frontendUrl": "auto-fill-frontend-flqb-qreui523o-0xprinc-5043s-projects.vercel.app",
+  "version": "1.0.1",
+  "lastUpdated": "2026-02-06T03:00:00Z"
 }
